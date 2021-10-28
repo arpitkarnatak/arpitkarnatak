@@ -42,9 +42,9 @@ I'm Arpit, a fullstack developer from <img src="https://cdn-icons-png.flaticon.c
 "location": "New Delhi, India",
 "education": ["Bachelor's in Technology, Computer Science"],
 "company": "Nfinita",
-"technical_interests": ["Blockchain", "NFTs", "DeFi",
+"technical_interests": ["Blockchain", "NFTs", "Decentralized Finance",
                          "Deep Learning", "Full stack development"],
-"currently_learning": ["Behaviour Trees", "PetriNets"],
+"research_interests": ["Identity based cryptography"],
 "non_technical_interests": ["NBA", "Indie Music", "Reading"],
 "relocation_interests": ["London", "Canada", "California", "NYC"]
 }
