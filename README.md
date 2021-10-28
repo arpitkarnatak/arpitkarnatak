@@ -45,7 +45,7 @@ I'm Arpit, a fullstack developer from <img src="https://cdn-icons-png.flaticon.c
 "technical_interests": ["Blockchain", "NFTs", "DeFi",
                          "Deep Learning", "Full stack development"],
 "currently_learning": ["Behaviour Trees", "PetriNets"],
-"hobbies": ["NBA", "Indie Music", ""],
+"non_technical_interests": ["NBA", "Indie Music", "Reading"],
 "relocation_interests": ["London", "Canada", "California", "NYC"]
 }
 ```
