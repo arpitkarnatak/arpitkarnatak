@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! This is Arpit</h2>
 <p align="center">
-  I'm pursuing my Bachelor of Technology in Computer Science Engineering from SRM Institute of Science and Technology, Chennai :student:. Currently I'm working at <a href='https://metagood.com/' target='_blank' rel='noopener noreferrer'>Metagood</a>, working on <a href='https://onchainmonkey.com/' target='_blank' rel='noopener noreferrer'>OnChainMonkey</a> NFT collection. My areas of interest include Blockchain, NFTs, DeFi, AI, and Full stack development.  
+  I'm pursuing my Bachelor of Technology in Computer Science Engineering from SRM Institute of Science and Technology, Chennai :student:. Currently I'm working at <a href='https://metagood.com/' target='_blank' rel='noopener noreferrer'>Metagood</a> as a Full Stack Software Engineer, working on <a href='https://onchainmonkey.com/' target='_blank' rel='noopener noreferrer'>OnChainMonkey</a> NFT collection. My areas of interest include Blockchain, NFTs, DeFi, AI, and Full stack development.  
 </p>
 <p align="center">
 </p>
