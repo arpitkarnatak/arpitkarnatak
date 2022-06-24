@@ -29,6 +29,5 @@
   <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=arpitkarnatak&show_icons=true&theme=radical">
   
 </p>
