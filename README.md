@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! This is Arpit</h2>
+<h1 align="center">Hello there! This is Arpit Karnatak</h1>
 <p align="center">
  I'm a full stack developer, currently working on <a href='https://aiorbit.io' target='_blank' rel='noopener noreferrer'>aiorbit</a>.
 
