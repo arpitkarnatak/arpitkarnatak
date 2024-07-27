@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! This is Arpit Karnatak</h1>
 <p align="center">
- I'm a full stack developer, currently working on <a href='https://aiorbit.io' target='_blank' rel='noopener noreferrer'>aiorbit</a>.
+ I'm a full stack developer, currently working on <a href='https://gptprotocol.com' target='_blank' rel='noopener noreferrer'>GPT Protocol</a>.
 
  I've previously worked at <a href='https://metagood.com/' target='_blank' rel='noopener noreferrer'>Metagood</a> where I was working on <a href='https://onchainmonkey.com/' target='_blank' rel='noopener noreferrer'>OnChainMonkey</a> NFT collection, and at <a href='https://getshield.xyz/' target='_blank' rel='noopener noreferrer'>Shield</a> as a fullstack developer.
  
